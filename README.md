@@ -1,16 +1,12 @@
-﻿# website-upload-20260530-164901-271
+# 高分电影大全
 
-Batch 271 of 43. Contains extracted static website versions. The original zip files are not committed.
+本静态站点由上传素材生成：
 
-| Directory | Source zip |
-| --- | --- |
-| version-2701 | project-bolt-sb1-vwnlkjxv - 副本-chatgpt (1).zip |
-| version-2702 | project-bolt-sb1-vwnlkjxv-chatgpt (1) (moved 1).zip |
-| version-2703 | project-bolt-sb1-vwnlkjxv-chatgpt (1) (moved 2).zip |
-| version-2704 | project-bolt-sb1-vybhf2ha - 副本-chatgpt (1) (moved 1).zip |
-| version-2705 | project-bolt-sb1-vybhf2ha - 副本-chatgpt (1) (moved 2).zip |
-| version-2706 | project-bolt-sb1-vybhf2ha-chatgpt (1) (moved 1).zip |
-| version-2707 | project-bolt-sb1-vybhf2ha-chatgpt (1) (moved 2).zip |
-| version-2708 | project-bolt-sb1-vydhjdnf - 副本-chatgpt (1) (moved 1).zip |
-| version-2709 | project-bolt-sb1-vydhjdnf - 副本-chatgpt (1) (moved 2).zip |
-| version-2710 | project-bolt-sb1-vydhjdnf-chatgpt (1) (moved 1).zip |
+- 实际解析影片数量：2000
+- 独立详情页数量：2000
+- 独立分类页数量：10
+- 首页：index.html
+- 分类总览：categories.html
+- 热播榜：rankings.html
+
+封面路径按规则引用站点根目录下的 1.jpg 到 150.jpg。当前上传包未包含这些图片文件，因此页面保留了对应路径与渐变兜底显示；将 1.jpg 到 150.jpg 放入网站根目录后即可显示真实封面。
